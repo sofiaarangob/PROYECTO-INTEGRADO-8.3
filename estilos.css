@@ -1,0 +1,68 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 30px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondo.jpg");
+    
+
+
+}
+   .titulo{
+    font-size: 50px;
+    color: rgb(0, 2, 118);
+    text-align: center;
+
+}
+
+
+.imagent{
+
+
+    height: 300px;
+    width: 350px;
+    background-image: url("circuitos.jpg");
+    float: left;
+    }
+
+    .img1{
+
+        height: 361px;
+        width: 300px;
+        background-image: url("anorexia.jpg");
+    }
+
+    .img2{
+        height: 300px;
+        width: 300px;
+        background-image: url("bulimia.jpg");
+
+
+    }
+
+    .img3{  
+       height: 200px;
+       width: 200px;
+       background-image: url("meditar.jpg");
+
+    }
+
+    .img4{
+      height: 200px;
+      width: 200px;
+      background-image: url("ejercicio.avif");
+
+
+    }
+
+    
